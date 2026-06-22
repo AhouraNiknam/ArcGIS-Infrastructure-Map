@@ -1,0 +1,6 @@
+@PLRDemo_ArcGIS_HostAddress = http://localhost:5008
+
+GET {{PLRDemo_ArcGIS_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
